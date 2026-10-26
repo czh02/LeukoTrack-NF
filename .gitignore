@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# OS and editor state
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo

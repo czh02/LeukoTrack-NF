@@ -1,0 +1,42 @@
+Figures in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Scope
+-----
+This licence covers the rendered artwork only: every PDF and PNG file under
+figs/**/fig/. The plotting and processing code (all .py, .yaml and .drawio
+source) is licensed separately under the MIT License; see LICENSE.
+
+You are free to
+---------------
+  Share  — copy and redistribute the figures in any medium or format.
+  Adapt  — remix, transform and build upon the figures for any purpose,
+           even commercially.
+
+Under the following terms
+-------------------------
+  Attribution — You must give appropriate credit, provide a link to the
+  licence, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your
+  use.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the licence permits.
+
+Full legal code
+---------------
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution example
+-------------------
+Figure reproduced from "LeukoTrack-NF: A Dual-Path Attention-Enhanced YOLO
+Framework for Video-Based Leukocyte Quantification in Nailfold
+Capillaroscopy", Medical Image Analysis (Elsevier), used under CC BY 4.0.
+
+Excluded from this licence
+--------------------------
+The underlying human-subject recordings, and the de-identified derived data
+they yield, are governed by the ethics approval and informed-consent terms
+described in Supplementary Section S2 of the manuscript. The CC BY 4.0 grant
+above covers the rendered artwork only and conveys no rights to those
+recordings.
